@@ -6,7 +6,7 @@ class Person {
   Person(this.name);
 
   void gruesse() {
-    print("Na wiehän, $name ");
+    print("Na wiehän, $name!");
   }
 
   void setName(String newName) {
